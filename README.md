@@ -1,0 +1,4 @@
+- 👋 Ciao, sono @pfrap, lavoro come designer di giorno e mi trasformo in un nerd dei dati di notte.
+- 🌱 Nella vita mi piacciono le sfide e per questo dopo una laurea magistrale in architettura, mi sono iscritto alla facoltà di Statistica e gestione delle informazioni presso l'Università Bicocca di Milano. Pian piano popolerò il mio github con tanti meravigliosi progetti di visualizzazione e analisi dei dati che ho già in mente :)
+- 💞️ Non vedo l'ora di aiutarti nel tuo prossimo progetto.
+- 📫 Scrivimi a pietro.frapoli@gmail.com
