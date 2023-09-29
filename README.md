@@ -1,2 +1,2 @@
-- 👋 Ciao, qua trovi alcuni dei miei progetti in ambito data.
+- 👋 Hi, here are some of my projects related to data management and analytics.
   
